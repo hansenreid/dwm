@@ -1,1 +1,0 @@
-/home/rhansen/dev/personal/dotfiles/dwm/config.h
